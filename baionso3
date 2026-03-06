@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>bai thuc hanh so 3</title>
+    </head>
+    <body>
+        <h1><font face="Arial" size="6" color="blue">Tour du lịch Lào 5N4D Vientiane-Luang Prabang[Hàng tuần-K/S 5 sao]</font></h1>
+        <p><strong>Giá: 12.900.000<sup>đ</sup></strong></p>
+        <ul>
+            <li>Khám phá thue đô Viêng chăn, cố đô Luang Prabang</li>
+            <li>Thác Kuang Si-thác nước đẹp bật nhất xứ Lào</li>
+            <ol type ="1" start="1">
+                <li>Động Nang Pha (Động cô Tiên), nơi thạch nhũ hình thành từ hàng triệu năm trước,mang hình dáng cô Tiên rát ấn tượng.Quý khách có thể tự do khám phá hang động hoặc chơi zipline khám phá rừng núi Thượng Lào(chi phí chưa bao gồm)</li>
+                <li>Tự do vui chơi, hoặc tham gia các hoạt động như:chèo thuyền Cayak dọc sông Son, tắm suối,trải nghiệm cánh đẹp rừng núi thượng Lào bằng khinh khí cầu,Motorsky...(chi phí chưa bao gồm)</li>
+                <li>Trải nghiệm và thực hành nghi kễ thả đèn trời mang ý nghĩa cầu bình an và may mắn.</li>
+            </ol>
+        </ul>
+        <ul>
+            <li>Lưu trú khách sạn 3,4,5 Sao</li>
+            <li>Trải nghiệm và thực hành nghi lễ thả đèn trời</li>
+            <li>Tặng Bia Lào</li>
+            <li>khởi hành theo lịch trình</li>
+            <li>Thời gian: 5 ngày 4 đêm</li>
+        </ul>
+        <h1><u><font face="Arial" size="6" color="red">Mô Tả</font></u></h1>
+        <p><i>Du lịch Okela gửi đến Quý khách hành trình Tour du lịch 5N4Đ Bay thẳng:TP Hồ Chí MInh-Vientiane -Luang Prabang-Văng Viêng</i></p>
+    </body>
+</html>
