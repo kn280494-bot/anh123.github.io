@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Vân dụng trang 140</title>
+    </head>
+    <body>
+        <h1 style="color: #006bb0; text-shadow: 5px 10px 5px rgba(0, 0, 0, 0.5);">Các hoạt động đã tham gia</h1>
+        <hr />
+        <ul style="list-style-type: circle; background-color: white;">
+            <li style="background-color: #CCFFFF; border-radius :10px; border: 2px solid #CCCCCC; padding: 10px;">Giải kéo co cấp trường.Thành tích: vô địch</li>
+            <li style="background-color: #CCFFFF; border-radius :10px; border: 2px solid #CCCCCC; padding: 10px;">Cuộc thi Vui học lập trình cấp trường.Thành tích:Giải khuyến khích</li>
+            <li style="background-color: #CCFFFF; border-radius :10px; border: 2px solid #CCCCCC; padding: 10px;">Họi thi văn nghệ 20-11 cấp trường.Vai trò:Hát bè trong tốp ca</li>
+        </ul>
+        
+        <h1 style="color: #006bb0; text-shadow: 5px 10px 5px rgba(0, 0, 0, 0.5);">Các hoạt động đã tham gia</h1>
+        <hr />
+        
+         <table style="width: 75%;border:2px solid #0088bd;">
+             <tr style="height: 32px; text-align: center;vertical-align:center;text-transform: uppercase;">
+            <th></th>
+            <th>Thứ Hai</th>
+            <th>Thứ Ba</th>
+            <th>Thứ Tư</th>
+            </tr>
+            <tr style="height: 48px; text-align: left: vertical-align; center; background-color: #d6fae4;">
+                <td>Sáng</td>
+                <td>Học chính khoá</td>
+                <td>Học chính Khoá</td>
+                <td>Học Chính Khoá</td>
+            </tr>
+            <tr style="height: 48px; text-align: left: vertical-align; cneter; background-color: #f1f2f4;">
+                <td>Trưa</td>
+                <td>Nghỉ trưa</td>
+                <td>Đọc sách</td>
+                <td>Nghỉ Trưa</td>
+            </tr>
+            <tr style="height: 48px; text-align: left: vertical-align; cneter; background-color: #d6fae4;">
+                <td>Chiều</td>
+                <td>Học chính khoá</td>
+                <td>Học Chính Khoá</td>
+                <td>CLB Tin học</td>
+            </tr>
+            <tr style="height: 48px; text-align: left: vertical-align; cneter; background-color: #f1f2f4;">
+                <td>Tối</td>
+                <td>Tập võ Vovinam</td>
+                <td>Tự học tại nhà</td>
+                <td>Tập voc Vovinam</td>
+            </tr>
+    </body>
+</html>
